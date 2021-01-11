@@ -1,6 +1,7 @@
 public class Door {
     double height;
     double width;
+    char[] name;
 
     Door(double heightInit, double widthInit){
         height = heightInit;
